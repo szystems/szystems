@@ -1,16 +1,29 @@
 ## Hi there 👋
+# Hi, I'm Otto Szarata
 
-<!--
-**szystems/szystems** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Full-Stack Developer with 15 years of experience building web applications. I recently moved to Victoria, BC, Canada and I'm looking for opportunities in software development.
 
-Here are some ideas to get you started:
+## What I Do
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I build web applications using PHP and Laravel. I also work with JavaScript, MySQL, Bootstrap, and REST APIs. Most of my projects are business management systems, inventory platforms, and client portals.
+
+## Projects
+
+Here are some of my main projects:
+
+**BuroSoft** - Legal and accounting management system for law firms. Built with Laravel, MySQL, and Bootstrap.
+https://github.com/szystems/burosoft
+
+**Jireh** - Business management system with POS, inventory, and invoicing. Built with Laravel, MySQL, and Bootstrap.
+https://github.com/szystems/jireh
+
+**Flebocenter** - Medical clinic management for patient records and appointments. Built with Laravel and MySQL.
+https://github.com/szystems/flebocenter
+
+## Contact
+
+- Email: szystems@gmail.com
+- LinkedIn: linkedin.com/in/ottoszarata
+- Portfolio: szystems.com
+
+I'm based in Victoria, BC and authorized to work in Canada.
